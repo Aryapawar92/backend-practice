@@ -1,0 +1,5 @@
+const asynchandler = () => {
+
+}
+
+export {asynchandler}
